@@ -1,8 +1,8 @@
 ## Oii, eu sou a Bruna Adélia
 
 - 📚 Curso Análise e Desenvolvimento de Sistemas - UNILAVRAS
-- 🌱 Estou estudando Análise e Projeto de Software 
-- 😄 Pronouns: ela/dela
+- 🌱 Developer
+- 😄 Pronouns: ela/dela/she
 
  <div>
   <a href="https://github.com/brunaadelia">
