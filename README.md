@@ -1,4 +1,4 @@
-## Oii, eu sou a Bruna Adélia
+## Oii, eu sou a Bruna Coelho
 
 - 📚 Curso Análise e Desenvolvimento de Sistemas - UNILAVRAS
 - 🌱 Developer
