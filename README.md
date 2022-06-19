@@ -1,6 +1,6 @@
 ## Oii, eu sou a Bruna Adélia
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas - UNILAVRAS
+- 📚 Análista e Desenvolvedora de Sistemas, graduada pelo UNILAVRAS
 - 🌱 Developer
 - 😄 Pronouns: ela/dela/she
 
