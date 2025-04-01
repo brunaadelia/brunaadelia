@@ -1,8 +1,8 @@
-## Oii, eu sou a Bruna Adélia
+## Oii, eu sou a Bruna Coelho
 
-- 📚 Análista e Desenvolvedora de Sistemas, graduada pelo UNILAVRAS
-- 🌱 Developer
-- 😄 Pronouns: ela/dela/she
+-  Análista e Desenvolvedora de Sistemas, graduada pelo UNILAVRAS
+-  Pós graduada em Arq de Software 
+-  Pronouns: ela/dela/she
 
  <div>
   <a href="https://github.com/brunaadelia">
